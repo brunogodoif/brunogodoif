@@ -48,7 +48,7 @@
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
-![APACHE]([https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)) &nbsp;&nbsp;&nbsp;&nbsp;
+![APACHE]([https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)) &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🔗 Contato
 [![Linkedin: Bruno F Godoi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-feliciano-de-godoi-166a4390)](https://www.linkedin.com/in/bruno-feliciano-de-godoi-166a4390) &nbsp;&nbsp;&nbsp;&nbsp;

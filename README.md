@@ -86,8 +86,10 @@
 ![APACHE](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## 🔗 Contato
-<p align="left">
-[![Linkedin: Bruno F Godoi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-feliciano-de-godoi-166a4390)](https://www.linkedin.com/in/bruno-feliciano-de-godoi-166a4390)
 
-[![Outlook E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:brunofgodoi@outlook.com.br)](mailto:brunofgodoi@outlook.com.br)
+<p align="left">
+
+  [![Linkedin: Bruno F Godoi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-feliciano-de-godoi-166a4390)](https://www.linkedin.com/in/bruno-feliciano-de-godoi-166a4390)
+
+  [![Outlook E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:brunofgodoi@outlook.com.br)](mailto:brunofgodoi@outlook.com.br)
 </p>

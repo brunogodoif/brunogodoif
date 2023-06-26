@@ -77,9 +77,7 @@
 
 
 ## [Outros]
-![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
-![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
+![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp; ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp; ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![APACHE](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🔗 Contato

@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋 Olá, meu nome é <strong>Bruno!</strong>
 
-<!--
-**brunogodoif/brunogodoif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> :man: &nbsp;Sobre mim </h3>
 
-Here are some ideas to get you started:
+- &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
+- &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
+- &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
+- &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## :rocket: &nbsp;Skills ##
+
+**Ferramentas de Desenvolvimento**
+
+## Contato ## 
+
+[![Linkedin: Bruno F Godoi](https://img.shields.io/badge/-BRUNOGODOI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-feliciano-de-godoi-166a4390)](https://www.linkedin.com/in/bruno-feliciano-de-godoi-166a4390)
+
+[![Outlook E-mail](https://img.shields.io/badge/-brunofgodoi@outlook.com.br-006bed?style=flat-square&logo=Outllok&logoColor=white&link=mailto:brunofgodoi@outlook.com.br)](mailto:brunofgodoi@outlook.com.br)

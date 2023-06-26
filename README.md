@@ -70,10 +70,8 @@
 ![DIGITAL OCEAN](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ## [OS]
-![WINDOWS](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-
-
-![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![WINDOWS](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
+![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black) &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## [Outros]

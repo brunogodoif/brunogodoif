@@ -44,7 +44,7 @@
 ![WINDOWS](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black) &nbsp;&nbsp;&nbsp;&nbsp;
 
-## [Outros]
+## [Others]
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;

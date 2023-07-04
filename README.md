@@ -1,11 +1,11 @@
-# 👋 Olá, meu nome é Bruno!
+# 👋 Hello, my name is Bruno!
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-- &nbsp;Residindo em Peruíbe, São Paulo - Brasil
-- &nbsp;Formado em Análise e Desenvolvimento de Sistemas
-- &nbsp;Pós Graduação em Arquitetura de Software e Sistemas Distribuídos pela PUC-Minas.
-- &nbsp;Procuro aprender novas tecnologias e aprimorar minhas habilidades para fornecer soluções eficientes e de alta qualidade.
+- &nbsp;Living in Peruíbe, São Paulo - Brazil
+- &nbsp;Graduated in Systems Analysis and Development
+- &nbsp;Post Graduation in Software Architecture and Distributed Systems by PUC-Minas..
+- &nbsp;I seek to learn new technologies and improve my skills to provide efficient and high quality solutions.
 
 ## 🛠 Skills
 
@@ -50,6 +50,6 @@
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![APACHE](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 
-## 🔗 Contato
+## 🔗 Contacts
 [![Linkedin: Bruno F Godoi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-feliciano-de-godoi-166a4390)](https://www.linkedin.com/in/bruno-feliciano-de-godoi-166a4390) &nbsp;&nbsp;&nbsp;&nbsp;
 [![Outlook E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:brunofgodoi@outlook.com.br)](mailto:brunofgodoi@outlook.com.br) &nbsp;&nbsp;&nbsp;&nbsp;
